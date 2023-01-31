@@ -1,7 +1,7 @@
 # SQL_Scraper
 Program to scrape Data off the internet and insert the data into newly created Postgres Tables
 
-Many Password Managers out there will hide access to their Users's passwords with simply asking for another password. Timelock is different because all it asks for access is that the User comes back at a certain time of day known only to the User to reveal the User's saved passwords.
+Usual Webscrapers get data off the internet and then the user transfers that Data to where they need it. This program skips the middleman and directly creates the tables and updates the table using SQL in a Python Program.
 
 [Software Demo Video](https://youtu.be/khvF_xFWroI)
 
